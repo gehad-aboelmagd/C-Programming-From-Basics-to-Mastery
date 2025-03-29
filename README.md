@@ -13,6 +13,6 @@ tech tracks and courses to help Egyptians move forward with their tech carees ü
  > `./exe_name`</br>
 
  ### Special thanks üôè
- Special thanks should go for Wessam Khattab, Coretech-Inovvations Cofounder & technical</br>
- director, for introducing such content combining both depth and coverage for most langauage</br>
+ Special thanks should go for Wessam Khattab, Coretech-Innovations Cofounder & Technical</br>
+ Director, for introducing such content combining both depth and coverage for most langauage</br>
  features.</br>
